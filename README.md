@@ -24,7 +24,7 @@ This Python script, the **Domain Information Toolkit**, provides a set of tools 
 
    The script performs a GeoIP lookup using the 'GeoLiteCity.dat' database to identify the geographic location of the server associated with the given domain.
 
-##Prerequisites**:
+## Prerequisites
 Before running the script, ensure that you have the required Python libraries installed. You can easily install them using the `requirements.txt` file provided in this repository. Run the following command to install the dependencies:
 
 
